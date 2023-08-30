@@ -11,3 +11,5 @@ G = nx.from_pandas_edgelist(edges, source = 'sources', target = 'targets' , edge
 
 #degree
 print(nx.degree(G))
+
+# test
